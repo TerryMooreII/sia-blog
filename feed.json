@@ -1,35 +1,35 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Terry Moore II",
-    "home_page_url": "https://terrymooreii.dev",
-    "feed_url": "https://terrymooreii.dev/feed.json",
+    "home_page_url": "https://terrymooreii.github.io/terrymooreii",
+    "feed_url": "https://terrymooreii.github.io/terrymooreii/feed.json",
     "description": "Just another blog with no real value",
     "author": {
         "name": "Terry Moore II"
     },
     "items": [
         {
-            "id": "https://terrymooreii.dev/markdown",
-            "url": "https://terrymooreii.dev/markdown",
+            "id": "https://terrymooreii.github.io/terrymooreii/markdown",
+            "url": "https://terrymooreii.github.io/terrymooreii/markdown",
             "title": "Markdown Testing",
             "summary": "Testing out some markdown",
-            "image": "https://terrymooreii.dev/undefined",
+            "image": "https://terrymooreii.github.io/terrymooreii/undefined",
             "date_modified": "2024-01-12T21:00:00.000Z",
             "author": {
                 "name": "Terry Moore II",
-                "url": "https://terrymooreii.dev"
+                "url": "https://terrymooreii.github.io/terrymooreii"
             }
         },
         {
-            "id": "https://terrymooreii.dev/markdown/nested/not-index.html",
-            "url": "https://terrymooreii.dev/markdown/nested/not-index.html",
+            "id": "https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html",
+            "url": "https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html",
             "title": "Markdown Testing",
             "summary": "Testing out some markdown",
-            "image": "https://terrymooreii.dev/undefined",
+            "image": "https://terrymooreii.github.io/terrymooreii/undefined",
             "date_modified": "2024-01-12T21:00:00.000Z",
             "author": {
                 "name": "Terry Moore II",
-                "url": "https://terrymooreii.dev"
+                "url": "https://terrymooreii.github.io/terrymooreii"
             }
         }
     ]

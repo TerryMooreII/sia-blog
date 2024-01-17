@@ -2,30 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>Terry Moore II</title>
-        <link>https://terrymooreii.dev</link>
+        <link>https://terrymooreii.github.io/terrymooreii</link>
         <description>Just another blog with no real value</description>
-        <lastBuildDate>Wed, 17 Jan 2024 20:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 20:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>All rights reserved 2024, Terry Moore II</copyright>
         <item>
             <title><![CDATA[Markdown Testing]]></title>
-            <link>https://terrymooreii.dev/markdown</link>
-            <guid>https://terrymooreii.dev/markdown</guid>
+            <link>https://terrymooreii.github.io/terrymooreii/markdown</link>
+            <guid>https://terrymooreii.github.io/terrymooreii/markdown</guid>
             <pubDate>Fri, 12 Jan 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[Testing out some markdown]]></description>
             <author>terry.moore.ii@gmail.com (Terry Moore II)</author>
-            <enclosure url="https://terrymooreii.dev/undefined" length="0" type="image//undefined"/>
+            <enclosure url="https://terrymooreii.github.io/terrymooreii/undefined" length="0" type="image//terrymooreii/undefined"/>
         </item>
         <item>
             <title><![CDATA[Markdown Testing]]></title>
-            <link>https://terrymooreii.dev/markdown/nested/not-index.html</link>
-            <guid>https://terrymooreii.dev/markdown/nested/not-index.html</guid>
+            <link>https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html</link>
+            <guid>https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html</guid>
             <pubDate>Fri, 12 Jan 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[Testing out some markdown]]></description>
             <author>terry.moore.ii@gmail.com (Terry Moore II)</author>
-            <enclosure url="https://terrymooreii.dev/undefined" length="0" type="image//undefined"/>
+            <enclosure url="https://terrymooreii.github.io/terrymooreii/undefined" length="0" type="image//terrymooreii/undefined"/>
         </item>
     </channel>
 </rss>

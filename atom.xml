@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://terrymooreii.dev</id>
+    <id>https://terrymooreii.github.io/terrymooreii</id>
     <title>Terry Moore II</title>
-    <updated>2024-01-17T20:39:57.802Z</updated>
+    <updated>2024-01-17T20:57:41.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Terry Moore II</name>
         <email>terry.moore.ii@gmail.com</email>
     </author>
-    <link rel="alternate" href="https://terrymooreii.dev"/>
-    <link rel="self" href="https://terrymooreii.dev/atom.xml"/>
+    <link rel="alternate" href="https://terrymooreii.github.io/terrymooreii"/>
+    <link rel="self" href="https://terrymooreii.github.io/terrymooreii/atom.xml"/>
     <subtitle>Just another blog with no real value</subtitle>
-    <icon>https://terrymooreii.dev/favicon.ico</icon>
+    <icon>https://terrymooreii.github.io/terrymooreii/favicon.ico</icon>
     <rights>All rights reserved 2024, Terry Moore II</rights>
     <entry>
         <title type="html"><![CDATA[Markdown Testing]]></title>
-        <id>https://terrymooreii.dev/markdown</id>
-        <link href="https://terrymooreii.dev/markdown"/>
+        <id>https://terrymooreii.github.io/terrymooreii/markdown</id>
+        <link href="https://terrymooreii.github.io/terrymooreii/markdown"/>
         <updated>2024-01-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing out some markdown]]></summary>
         <author>
             <name>Terry Moore II</name>
             <email>terry.moore.ii@gmail.com</email>
-            <uri>https://terrymooreii.dev</uri>
+            <uri>https://terrymooreii.github.io/terrymooreii</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Testing]]></title>
-        <id>https://terrymooreii.dev/markdown/nested/not-index.html</id>
-        <link href="https://terrymooreii.dev/markdown/nested/not-index.html"/>
+        <id>https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html</id>
+        <link href="https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html"/>
         <updated>2024-01-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing out some markdown]]></summary>
         <author>
             <name>Terry Moore II</name>
             <email>terry.moore.ii@gmail.com</email>
-            <uri>https://terrymooreii.dev</uri>
+            <uri>https://terrymooreii.github.io/terrymooreii</uri>
         </author>
     </entry>
 </feed>
