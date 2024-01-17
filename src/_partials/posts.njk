@@ -10,7 +10,7 @@
       <span class="date" title="{{ post.datetime}}">
         {{ post.date.date }}
       </span>
-      <a href="{{ post.slug }}" title="{{ post.title }}"> {{ post.title }} </a>
+      <a href="{{ site.blog_url }}{{ post.slug }}" title="{{ post.title }}"> {{ post.title }} </a>
     </li>
     {% endfor %}
   </ul>
