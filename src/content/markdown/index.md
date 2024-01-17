@@ -1,6 +1,6 @@
 ---
 title: Markdown Testing
-slug: markdown-testing
+template: post
 created_at: 2024-01-12 16:00:00-5:00
 description: Testing out some markdown
 ---

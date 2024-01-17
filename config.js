@@ -1,3 +1,10 @@
+import url from 'url'
+import path from 'path'
+
+const __filename = url.fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+console.log(__dirname)
+
 export default {
   // User Config
   site: {
@@ -15,7 +22,7 @@ export default {
       },
       {
         title: 'Blog',
-        href: '/blog.html'
+        href: '/blog'
       },
       {
         title: 'Page2',
@@ -26,18 +33,16 @@ export default {
 
   // App config
   app: {
-    public: "./public",
-    src: "./src",
+    public: `${__dirname}/public`,
+    src: `${__dirname}/src`,
     partials: "_partials",
-    posts: "posts",
-    pages: "pages",
+    template_ext: '.njk',
+    content: 'content',
     css: "css",
     js: "js",
     images: "imgs",
     posts_template: "posts.njk",
-    post_template: "post.njk",
-    page_template: "page.njk",
-    blog_page: "blog.html",
+    blog_list: "blog",
     feed: {
       count: 10,
       rss2: true,
