@@ -23,7 +23,7 @@ jobs:
           npm run build
 
       - name: Deploy to GH Page
-        uses: JamesIves/github-pages-deploy-action@4.5.0
+        uses: JamesIves/github-pages-deploy-action@4.4.3
         with:
           branch: gh-pages
           folder: public
