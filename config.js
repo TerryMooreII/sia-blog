@@ -40,6 +40,7 @@ export default {
     content: 'content',
     css: "css",
     js: "js",
+    assets: "assets",
     images: "imgs",
     posts_template: "posts.njk",
     blog_list: "blog",
