@@ -4,7 +4,7 @@
     <ul>
       {% for link in site.nav %}
       <li>
-        <a href="{{ link.href }}" title="{{ link.title }}">{{ link.title }}</a>
+        <a href="{{ site.blog_url }}{{ link.href }}" title="{{ link.title }}">{{ link.title }}</a>
       </li>
       {% endfor %}
     </ul>
