@@ -16,15 +16,12 @@ description: Just my first blog post
   }
 </style>
 
-
 Hello my name is terry moore and i am a software engineer
 
 - first
 - second
 - third
 
-
 <div class="d-flex justify-content-center red">
   # test
 </div>
-

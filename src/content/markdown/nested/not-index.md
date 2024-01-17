@@ -15,7 +15,7 @@ description: Testing out some markdown
 
 [ ] Test
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg 'a title')
 
 ## [Demo](https://sindresorhus.com/github-markdown-css)
 
