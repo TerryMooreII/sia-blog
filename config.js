@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename)
 export default {
   // User Config
   site: {
-    blog_url: 'https://terrymooreii.github.io/terrymooreii',
+    blog_url: process.env.BLOG_URL || 'https://terrymooreii.github.io/terrymooreii',
     blog_title: 'Terry Moore II',
     blog_description: 'Just another blog with no real value',
     blog_image: '',
