@@ -3,6 +3,7 @@ import path from 'path'
 
 import { full as emoji } from 'markdown-it-emoji'
 import taskLists from 'markdown-it-task-lists'
+import video from 'markdown-it-video'
 
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -50,7 +51,7 @@ export default {
     },
     markdown: {
       highlightjs: true,
-      plugins: [emoji, taskLists]
+      plugins: [emoji, taskLists, video]
     }
   },
 }
