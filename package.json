@@ -15,11 +15,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@terrymooreii/sia": "^1.0.2",
     "concurrently": "^8.2.2",
     "http-server": "^14.1.1",
     "markdown-it-emoji": "^3.0.0",
     "markdown-it-task-lists": "^2.1.1",
-    "prettier": "3.2.1",
-    "@terrymooreii/sia": "^1.0.1"
+    "prettier": "3.2.1"
   }
 }
