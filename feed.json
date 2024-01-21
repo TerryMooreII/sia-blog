@@ -30,18 +30,6 @@
                 "name": "Terry Moore II",
                 "url": "https://terrymooreii.github.io/sia-blog"
             }
-        },
-        {
-            "id": "https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html",
-            "url": "https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html",
-            "title": "Markdown Testing",
-            "summary": "Testing out some markdown",
-            "image": "https://terrymooreii.github.io/sia-blog/undefined",
-            "date_modified": "2024-01-12T21:00:00.000Z",
-            "author": {
-                "name": "Terry Moore II",
-                "url": "https://terrymooreii.github.io/sia-blog"
-            }
         }
     ]
 }

@@ -7,13 +7,13 @@
   <meta name="author" content="Terry Moore II" />
   <meta
     name="description"
-    content="Just my first blog post"
+    content="The site index page"
   />
   
   <meta property="og:url" content="https://terrymooreii.github.io/sia-blog" />
   
   <meta property="og:title" content="Terry Moore II" />
-  <meta property="og:description" content="Just my first blog post" />
+  <meta property="og:description" content="The site index page" />
   <meta property="og:image" content="" />
 
   <link type="application/rss+xml" rel="alternate" href="https://terrymooreii.github.io/sia-blog/rss.xml" title="Terry Moore II - RSS Feed" />
@@ -48,10 +48,6 @@
         <a href="https://terrymooreii.github.io/sia-blog/blog" title="Blog">Blog</a>
       </li>
       
-      <li>
-        <a href="https://terrymooreii.github.io/sia-blog/page2.html" title="Page2">Page2</a>
-      </li>
-      
     </ul>
   </div>
 </nav>
@@ -61,24 +57,48 @@
 
        
 <style>
-  .d-flex {
-    display: flex
+  .social-container {
+    margin-top: calc(20vh);
+    margin-bottom: calc(20vh);
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-  .justify-content-center {
+
+  .social {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .social a {
+    display: flex;
     justify-content: center;
   }
-  .red {
-    color: red
+
+  .social img {
+    background-color: transparent;
+    margin: 0 20px;
+  }
+
+  @media only screen and (max-width: 700px) {
+    .social img {
+      width: 50%;
+      margin: 0px;
+    }
   }
 </style>
-<p>Hello my name is terry moore and i am a software engineer</p>
-<ul>
-<li>first</li>
-<li>second</li>
-<li>third</li>
-</ul>
-<div class="d-flex justify-content-center red">
-  # test
+<div class="social-container">
+  <div class="social">
+    <a href="https://github.com/TerryMooreII" title="github">
+      <img src="./imgs/github.svg" alt="github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/terrymooreii" title="linkedin">
+      <img src="./imgs/linkedin.svg" alt="linkedin"/>
+    </a>
+    <a href="https://mastodon.social/@terrymooreii" title="mastodon">
+      <img src="./imgs/mastodon.svg" alt="mastodon"/>
+    </a>
+  </div>
 </div>
 
  
