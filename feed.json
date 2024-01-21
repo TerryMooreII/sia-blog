@@ -1,46 +1,46 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Terry Moore II",
-    "home_page_url": "https://terrymooreii.github.io/terrymooreii",
-    "feed_url": "https://terrymooreii.github.io/terrymooreii/feed.json",
+    "home_page_url": "https://terrymooreii.github.io/sia-blog",
+    "feed_url": "https://terrymooreii.github.io/sia-blog/feed.json",
     "description": "Just another blog with no real value",
     "author": {
         "name": "Terry Moore II"
     },
     "items": [
         {
-            "id": "https://terrymooreii.github.io/terrymooreii/intro-to-sia",
-            "url": "https://terrymooreii.github.io/terrymooreii/intro-to-sia",
+            "id": "https://terrymooreii.github.io/sia-blog/intro-to-sia",
+            "url": "https://terrymooreii.github.io/sia-blog/intro-to-sia",
             "title": "Intro to Sia",
-            "image": "https://terrymooreii.github.io/terrymooreii/null",
+            "image": "https://terrymooreii.github.io/sia-blog/null",
             "date_modified": "2024-01-20T21:27:12.525Z",
             "author": {
                 "name": "Terry Moore II",
-                "url": "https://terrymooreii.github.io/terrymooreii"
+                "url": "https://terrymooreii.github.io/sia-blog"
             }
         },
         {
-            "id": "https://terrymooreii.github.io/terrymooreii/markdown",
-            "url": "https://terrymooreii.github.io/terrymooreii/markdown",
+            "id": "https://terrymooreii.github.io/sia-blog/markdown",
+            "url": "https://terrymooreii.github.io/sia-blog/markdown",
             "title": "Markdown Testing",
             "summary": "Testing out some markdown",
-            "image": "https://terrymooreii.github.io/terrymooreii/undefined",
+            "image": "https://terrymooreii.github.io/sia-blog/undefined",
             "date_modified": "2024-01-12T21:00:00.000Z",
             "author": {
                 "name": "Terry Moore II",
-                "url": "https://terrymooreii.github.io/terrymooreii"
+                "url": "https://terrymooreii.github.io/sia-blog"
             }
         },
         {
-            "id": "https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html",
-            "url": "https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html",
+            "id": "https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html",
+            "url": "https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html",
             "title": "Markdown Testing",
             "summary": "Testing out some markdown",
-            "image": "https://terrymooreii.github.io/terrymooreii/undefined",
+            "image": "https://terrymooreii.github.io/sia-blog/undefined",
             "date_modified": "2024-01-12T21:00:00.000Z",
             "author": {
                 "name": "Terry Moore II",
-                "url": "https://terrymooreii.github.io/terrymooreii"
+                "url": "https://terrymooreii.github.io/sia-blog"
             }
         }
     ]

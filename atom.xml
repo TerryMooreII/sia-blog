@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://terrymooreii.github.io/terrymooreii</id>
+    <id>https://terrymooreii.github.io/sia-blog</id>
     <title>Terry Moore II</title>
-    <updated>2024-01-21T17:08:23.765Z</updated>
+    <updated>2024-01-21T17:09:34.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Terry Moore II</name>
         <email>terry.moore.ii@gmail.com</email>
     </author>
-    <link rel="alternate" href="https://terrymooreii.github.io/terrymooreii"/>
-    <link rel="self" href="https://terrymooreii.github.io/terrymooreii/atom.xml"/>
+    <link rel="alternate" href="https://terrymooreii.github.io/sia-blog"/>
+    <link rel="self" href="https://terrymooreii.github.io/sia-blog/atom.xml"/>
     <subtitle>Just another blog with no real value</subtitle>
-    <icon>https://terrymooreii.github.io/terrymooreii/assets/favicon.ico</icon>
+    <icon>https://terrymooreii.github.io/sia-blog/assets/favicon.ico</icon>
     <rights>All rights reserved 2024, Terry Moore II</rights>
     <entry>
         <title type="html"><![CDATA[Intro to Sia]]></title>
-        <id>https://terrymooreii.github.io/terrymooreii/intro-to-sia</id>
-        <link href="https://terrymooreii.github.io/terrymooreii/intro-to-sia"/>
+        <id>https://terrymooreii.github.io/sia-blog/intro-to-sia</id>
+        <link href="https://terrymooreii.github.io/sia-blog/intro-to-sia"/>
         <updated>2024-01-20T21:27:12.525Z</updated>
         <author>
             <name>Terry Moore II</name>
             <email>terry.moore.ii@gmail.com</email>
-            <uri>https://terrymooreii.github.io/terrymooreii</uri>
+            <uri>https://terrymooreii.github.io/sia-blog</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Testing]]></title>
-        <id>https://terrymooreii.github.io/terrymooreii/markdown</id>
-        <link href="https://terrymooreii.github.io/terrymooreii/markdown"/>
+        <id>https://terrymooreii.github.io/sia-blog/markdown</id>
+        <link href="https://terrymooreii.github.io/sia-blog/markdown"/>
         <updated>2024-01-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing out some markdown]]></summary>
         <author>
             <name>Terry Moore II</name>
             <email>terry.moore.ii@gmail.com</email>
-            <uri>https://terrymooreii.github.io/terrymooreii</uri>
+            <uri>https://terrymooreii.github.io/sia-blog</uri>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Testing]]></title>
-        <id>https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html</id>
-        <link href="https://terrymooreii.github.io/terrymooreii/markdown/nested/not-index.html"/>
+        <id>https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html</id>
+        <link href="https://terrymooreii.github.io/sia-blog/markdown/nested/not-index.html"/>
         <updated>2024-01-12T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[Testing out some markdown]]></summary>
         <author>
             <name>Terry Moore II</name>
             <email>terry.moore.ii@gmail.com</email>
-            <uri>https://terrymooreii.github.io/terrymooreii</uri>
+            <uri>https://terrymooreii.github.io/sia-blog</uri>
         </author>
     </entry>
 </feed>
