@@ -25,11 +25,7 @@ export default {
       {
         title: 'Blog',
         href: '/blog',
-      },
-      {
-        title: 'Page2',
-        href: '/page2.html',
-      },
+      }
     ],
   },
 

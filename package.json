@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "npx http-server public",
     "watch": "forever --watchDirectory ./src -w ./node_modules/@terrymooreii/sia/lib/index.js build",
-    "dev": "concurrently --kill-others \"npm run watch\" \"npm run serve\"",
+    "dev": "BLOG_URL=http://localhost:8080 concurrently --kill-others \"npm run watch\" \"npm run serve\"",
     "lint": "npx prettier . --write",
     "clean": "rm -rf public",
     "build": "sia build"
