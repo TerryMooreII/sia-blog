@@ -118,3 +118,9 @@ footer {
   text-align: center;
   font-size: 0.9em;
 }
+
+
+/* Markdown embedded video container */
+.embed-responsive {
+  text-align: center;
+}
