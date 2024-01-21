@@ -5,26 +5,21 @@
   "main": "index.js",
   "scripts": {
     "serve": "npx http-server public",
-    "watch": "forever --watchDirectory ./src -w ./lib/index.js",
+    "watch": "forever --watchDirectory ./src -w ./node_modules/@terrymooreii/sia/lib/index.js build",
     "dev": "concurrently --kill-others \"npm run watch\" \"npm run serve\"",
     "lint": "npx prettier . --write",
     "clean": "rm -rf public",
-    "build": "node lib/index.js"
+    "build": "sia build"
   },
   "type": "module",
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.2",
-    "feed": "^4.2.2",
-    "forever": "^4.0.3",
-    "gray-matter": "^4.0.3",
-    "highlight.js": "^11.9.0",
     "http-server": "^14.1.1",
-    "markdown-it": "^14.0.0",
     "markdown-it-emoji": "^3.0.0",
     "markdown-it-task-lists": "^2.1.1",
-    "nunjucks": "^3.2.4",
-    "prettier": "3.2.1"
+    "prettier": "3.2.1",
+    "@terrymooreii/sia": "^1.0.1"
   }
 }

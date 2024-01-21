@@ -1,6 +1,9 @@
 import url from 'url'
 import path from 'path'
 
+import { full as emoji } from 'markdown-it-emoji'
+import taskLists from 'markdown-it-task-lists'
+
 const __filename = url.fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
@@ -49,5 +52,9 @@ export default {
       atom1: true,
       json1: true,
     },
+    markdown: {
+      highlightjs: true,
+      plugins: [emoji, taskLists]
+    }
   },
 }
