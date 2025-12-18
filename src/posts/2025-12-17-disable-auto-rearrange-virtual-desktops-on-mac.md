@@ -8,7 +8,7 @@ Automatically rearrange Spaces based on most recent use
 
 To turn it off:
 
--Open System Settings
+- Open System Settings
 - Go to Desktop & Dock
 - Scroll down to the Mission Control section
 - Disable ✅ Automatically rearrange Spaces based on most recent use
