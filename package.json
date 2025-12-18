@@ -1,28 +1,14 @@
 {
-  "name": "blog",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "serve": "npx http-server public",
-    "watch": "forever --watchDirectory ./src -w ./node_modules/@terrymooreii/sia/lib/index.js build",
-    "dev": "BLOG_URL=http://localhost:8080 concurrently --kill-others \"npm run watch\" \"npm run serve\"",
-    "lint": "npx prettier . --write",
-    "clean": "rm -rf public",
-    "build": "sia build"
-  },
+  "name": "my-site",
+  "version": "1.0.0",
+  "private": true,
   "type": "module",
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@terrymooreii/sia": "^1.0.2",
-    "concurrently": "^8.2.2",
-    "http-server": "^14.1.1",
-    "markdown-it-emoji": "^3.0.0",
-    "markdown-it-task-lists": "^2.1.1",
-    "prettier": "3.2.1"
+  "scripts": {
+    "dev": "sia dev",
+    "build": "sia build",
+    "new": "sia new"
   },
   "dependencies": {
-    "markdown-it-video": "^0.6.3"
+    "sia": "^1.0.0"
   }
 }
