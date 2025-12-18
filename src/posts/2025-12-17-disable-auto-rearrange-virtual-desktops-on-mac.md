@@ -4,7 +4,9 @@ date: 2025-12-18T01:33:24.164Z
 tags: [til, mac, osx]
 ---
 
-Automatically rearrange Spaces based on most recent use
+Setting name:
+
+**Automatically rearrange Spaces based on most recent use**
 
 To turn it off:
 
