@@ -3,7 +3,7 @@ site:
   description: A personal blog
   url: https://terrymooreii.github.io/sia-blog
   author: Terry Moore II
-theme: main
+theme: minimal
 input: src
 output: dist
 layouts: _layouts
