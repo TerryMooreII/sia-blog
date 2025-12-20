@@ -4,7 +4,7 @@ site:
   url: https://terrymooreii.github.io/sia-blog
   author: Terry Moore II
 theme: 
-  name: minimal
+  name: main
   showHero: true
   
 input: src
