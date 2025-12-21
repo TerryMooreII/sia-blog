@@ -9,6 +9,6 @@
     "new": "sia new"
   },
   "dependencies": {
-    "@terrymooreii/sia": "^2.1.7"
+    "@terrymooreii/sia": "^2.1.9"
   }
 }
