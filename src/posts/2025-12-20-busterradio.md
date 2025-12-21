@@ -1,0 +1,25 @@
+---
+title: "BusterRadio"
+date: 2025-12-20T23:45:24.973Z
+tags: [busterradio, jambands, development]
+draft: true
+---
+
+Over the last nearly 10 years I have been writing and rewriting a web app that I called [BusterRadio](https://busterradio.com).  I started backed when I was working as a consultant at [Cardinal Solutions](https://www.linkedin.com/company/cardinal-solutions).  It started as a way for me to learn [Knockout.js](https://knockoutjs.com/) and a few other javascript libraries. 
+
+Basically [BusterRadio](https://busterradio.com) is a frontend for [Archive.org's](https://archive.org/details/etree) live music archive.  If you love live music then check it out.  Most of the bands are either small or considered [Jambands](https://en.wikipedia.org/wiki/Jam_band) since those are the bands that allow the recording and sharing of their shows.  When I first started writing BusterRadio the Archive's interface for playing these shows was subpar.  My interface was a nice refresh and a different way to browse and listen to this music. 
+
+Since the initial release I have rewritten in multiple different frameworks.  For a while it was in [Angular 2](https://angular.dev/) and [material design](https://m2.material.io/).  That interface didn't last long mostly due to my dislike of the Angular framework.  Shortly followed was my rewrite in [Vue 2](https://v2.vuejs.org/) with a very old version of [Tailwinds](https://tailwindcss.com/) css.  I am sure I will rewrite the web interface again when its time to learn a new frontend framework but until then I have been working a new mobile release. 
+
+
+The newest rendition of BusterRadio is a complete rewrite as a mobile application in [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/).  This has been a lot of fun to work on and I have face may challenges. There is a popular alternative to this app called [Relisten](https://relisten.net/), this app has been around for a while and has a pretty big user base.  The only reason that I don't just use that app is because, at the time, its poor performance on [Apple Carplay](https://www.apple.com/ios/carplay/). Since then they have dropped support for Carplay and rebuilt their app in React Navtive also.  
+
+I started out building this app by doing some research and found that you can build Apple Carplay apps with React Native so that is what i set out to do.  Unfortunately I didn't do more research as building [Carplay](https://www.apple.com/ios/carplay/) interface with a React Native Expo app is not possible, at least not right now.  
+
+The interface for the BusterRadio app was going to look very similar to Spotify.  I figured they have have lot of UX engineers that have researched the UX/UI of music apps and I figured I would just piggy back onto that.  And I did, the interface looks pretty good and behaved like I liked.  For the audio module I was using [React Native Track Player](https://rntp.dev/).  This had a large user base and good documentation but I could tell there was some cracks in its foundation.  There were several [Github Issues](https://github.com/doublesymmetry/react-native-track-player/issues) that made me nervous but it was the best option, better than expo-audio.  The issue, and this is a big issue for live music, is that the player was not [gapless](https://en.wikipedia.org/wiki/Gapless_playback), meaning that there was a few second pause between one track ending and the next starting due to the audio file loading and buffering process.  I tried to work around this in the React Native code but it just didnt work.  
+
+Around this time AI started to get more popular and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding) became a thing so I decided to try my hand at building my own React Native [Swift](https://developer.apple.com/swift/) Module  that would play a playlist (show) of tracks with [gapless](https://en.wikipedia.org/wiki/Gapless_playback) playback.  I worked on this for many weeks and had several attempts at building the right library that would be gapless, preload traces, support Carplay's Now Playing Screen and iOS's Now Playing Screen.  I believe after the sixth try I got something that worked well.  I have uploaded this code to github in a private repo for now.  I have some issue with trying to release it since it AI generated and if a real swift developer looked at the code they would probably think it was poorly written. But it does work for my use case. 
+
+I haven't officially released the BusterRadio app but it is published to the App Store as a [Test Flight](https://developer.apple.com/testflight/) app.  So, if you love live music and want to do some beta testing then give me an [email](mailto:terry@mooreii.com) and i will hook you up.  
+
+I plan on writing more about the [BusterRadio](https://busterradio.com) app in the future so stay tuned...
