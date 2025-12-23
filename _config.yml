@@ -3,9 +3,14 @@ site:
   description: A personal blog
   url: https://terrymooreii.github.io/sia-blog
   author: Terry Moore II
+  
 theme: 
   name: minimal
   showHero: true
+
+assets:
+  css:
+    - styles/custom.css
   
 input: src
 output: dist
