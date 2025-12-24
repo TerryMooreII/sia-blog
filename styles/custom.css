@@ -1,0 +1,12 @@
+.site-header {
+  padding: var(--spacing-md) 0
+}
+
+.hero {
+  padding: 0;
+}
+
+.site-footer {
+  padding: var(--spacing-md) 0;
+}
+
