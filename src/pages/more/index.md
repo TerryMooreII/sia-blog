@@ -57,13 +57,13 @@ Most of my projects are on [Github](https://github.com/terrymooreii) but here ar
 
 Just 10 left: Alabama, Arkansas, Hawaii, Idaho, Maine, Montana, North & South Dakota, Rhode Island, Wyoming.
 
-![State I have been to](../images/state-been-to.png)
+![State I have been to](./state-been-to.png)
 
 
 ## [Countries](https://map1.maploco.com/visited-countries/mine.php?c1=m672khaqyo-b9c20mjri8-b9j1kifj7k-b33j9za8e8-2rrvtk66tc) I have been to
 
 I have a lot more to go :smile:
 
-![Countries I have been to](../images/countries-been-to.png)
+![Countries I have been to](./countries-been-to.png)
 
 [image-ref]: https://www.markdownlang.com/image.jpg "Optional Title"
