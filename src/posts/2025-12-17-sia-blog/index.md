@@ -9,7 +9,7 @@ excerpt: "New static site generator"
 
 ## Static site generator
 
-![Sia Logo](../../images/logo-sia-t.png)
+![Sia Logo](./logo-sia-t.png)
 
 About a year ago I created a static site generator just as a personal project and because I was bored. It worked kinda well but didnt have all the bells and whistles that I wanted.  Plus the code was kinda crap but it worked.  
 

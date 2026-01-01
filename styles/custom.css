@@ -33,5 +33,5 @@
 
 [data-theme="dark"]:root {
   --color-bg: #202020; /* 1F1F1F */
-
+  --color-bg-alt: #252525;
 }
