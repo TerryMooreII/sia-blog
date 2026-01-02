@@ -35,3 +35,11 @@
   --color-bg: #202020; /* 1F1F1F */
   --color-bg-alt: #252525;
 }
+
+li:has(input[type="checkbox"]) {
+  list-style: none;
+}
+
+ul:has(input[type="checkbox"]) {
+  padding-left: 0 !important;
+}
