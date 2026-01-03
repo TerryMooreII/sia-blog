@@ -6,9 +6,9 @@ permalink: /about/
 
 ### Me
 
-Hello! I'm Terry Moore the author of this blog.  I originally started to put this together as a way for me to test out different features and functionality of my Static Site Generator call [Github](https://github.com/terrymooreii/sia).  But as time when on I stated to enjoy getting my random thoughts down as little Notes and bigger items as blog posts.  I have never really enjoyed writing or even making my thoughts public so this has been kinda therapeutic and educational.  
+Hello! I'm Terry Moore, the author of this blog. I originally started this as a way to test out different features and functionality of my static site generator called [Sia](https://github.com/terrymooreii/sia). As time went on, I started to enjoy getting my random thoughts down as little notes and bigger items as blog posts. I've never really enjoyed writing or making my thoughts public, so this has been somewhat therapeutic and educational.
 
-As for me I am a Frontend Engineer working at [Mezmo](https://mezmo.com) (formally LogDNA). I play on a few Beer League Ice Hockey teams.  I have a wife and a kid that is in college. (Ah time flies) Oh and a dog named Luna, she is a lab-coon hound mix.  
+I'm a Frontend Engineer working at [Mezmo](https://mezmo.com) (formerly LogDNA). I play on a few beer league ice hockey teams. I have a wife and a kid in college. Oh, and a dog named Luna, who is a lab-coonhound mix.  
 
 
 ### Contact
