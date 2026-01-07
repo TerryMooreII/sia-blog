@@ -11,6 +11,7 @@ Hello! I'm Terry Moore, the author of this blog. I originally started this as a 
 I'm a Frontend Engineer working at [Mezmo](https://mezmo.com) (formerly LogDNA). I play on a few beer league ice hockey teams. I have a wife and a kid in college. Oh, and a dog named Luna, who is a lab-coonhound mix.  
 
 
+
 ### Contact
 
 Here is some some places on the internet that you can find me but to be honest I don't really do any social media.  I only keep my X account around since it was the first social media that I started to use. As you can see I don't have any Meta apps (no facebook, instagram, etc) and no tiktok.

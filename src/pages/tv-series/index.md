@@ -19,7 +19,7 @@ Current list of TV Series that I have watched
 | Drive to Survive (F1)            | **Yes**           | 4                |                                        |
 | 1883                             | No                | 4                |                                        |
 | Narcos                           | No                | 4                |                                        |
-| Stranger Things                  | **Yes**           | 5                |                                        |
+| Stranger Things                  | No                | 5                |                                        |
 | Seinfeld                         | No                | 5                |                                        |
 | South Park                       | **Yes**           | 5                |                                        |
 | Family Guy                       | **Yes**           | 5                |                                        |
@@ -63,5 +63,6 @@ Current list of TV Series that I have watched
 | Your Friends and Neighbors       | **Yes**           | 3                |                                        |
 | Bad monkey                       | No                | 3                |                                        |
 | White Lotus                      | **Yes**           | 3                | Season 1 and 2 were good. Season 3 sucked |
+| Landman                          | **Yes**           | 4                |                                        |
 
 
