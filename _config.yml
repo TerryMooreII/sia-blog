@@ -18,7 +18,7 @@ layouts: _layouts
 includes: _includes
 collections:
   posts:
-    path: posts/:year/:month/
+    path: posts/:year/:month
     layout: post
     permalink: /blog/:year/:month/:slug/
     sortBy: date
@@ -28,7 +28,7 @@ collections:
     layout: page
     permalink: /:slug/
   notes:
-    path: notes
+    path: notes/:year/:month
     layout: note
     permalink: /notes/:year/:month/:day/:slug/
     sortBy: date
