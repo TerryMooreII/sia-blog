@@ -44,3 +44,7 @@ li:has(input[type="checkbox"]) {
 ul:has(input[type="checkbox"]) {
   padding-left: 0 !important;
 }
+
+.post-tags a:hover {
+  color: var(--color-text);
+}
