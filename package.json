@@ -9,6 +9,7 @@
     "new": "sia new"
   },
   "dependencies": {
-    "@sia-ssg/sia": "^3.1.0"
+    "@sia-ssg/sia": "^3.1.0",
+    "@sia-ssg/sia-plugin-lightbox": "^1.0.0"
   }
 }

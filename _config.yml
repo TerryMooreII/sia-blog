@@ -8,6 +8,12 @@ theme:
   name: minimal
   showHero: true
 
+plugins:
+  enabled: true
+  config:
+    sia-plugin-lightbox:
+      enabled: true
+
 assets:
   css:
     - styles/custom.css
