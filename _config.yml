@@ -13,6 +13,12 @@ plugins:
   config:
     sia-plugin-lightbox:
       enabled: true
+    sia-plugin-scroll-progress:
+      enabled: true
+      height: "4px"
+      color: "#3498db"
+      position: "top"
+      zIndex: 10000
 
 assets:
   css:
