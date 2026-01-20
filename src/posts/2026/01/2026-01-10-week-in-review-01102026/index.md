@@ -1,5 +1,5 @@
 ---
-title: "Week In Review 01/10/2025"
+title: "Week In Review 01/10/2026"
 date: 2026-01-10T15:52:35.116Z
 tags: ["week in review"]
 excerpt: "This weeks week in review."
