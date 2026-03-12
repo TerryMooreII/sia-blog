@@ -18,6 +18,7 @@ Current list of TV Series that I have watched
 | Friends                          | No                | 3                |                                        |
 | Drive to Survive (F1)            | **Yes**           | 4                |                                        |
 | 1883                             | No                | 4                |                                        |
+| Ozark                            | No                | 4                |                                        |
 | Narcos                           | No                | 4                |                                        |
 | Stranger Things                  | No                | 5                |                                        |
 | Seinfeld                         | No                | 5                |                                        |
