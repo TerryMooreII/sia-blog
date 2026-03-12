@@ -65,5 +65,6 @@ Current list of TV Series that I have watched
 | Bad monkey                       | No                | 3                |                                        |
 | White Lotus                      | **Yes**           | 3                | Season 1 and 2 were good. Season 3 sucked |
 | Landman                          | **Yes**           | 4                |                                        |
-
+| True Detective                   | **Yes**           | 3                | Season 1 and 4 were good, 3 is ok 2 sucked|
+| Fargo                            | No                | 5                | Season 4 wasnt good                     |
 
